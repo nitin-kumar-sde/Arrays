@@ -74,11 +74,24 @@ Problems are organised pattern wise, covering all the major concepts for coding 
 
 ### ⚙️ Constant size window variants
 - [Maximum Sum Subarray of Size K](https://www.geeksforgeeks.org/find-maximum-minimum-sum-subarray-size-k/)
+- [Maximum card points](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/description/)
 
 ### 🛠️ Longest subarray with constraints variants
 - [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 - [Flip zeros to ones](https://leetcode.com/problems/max-consecutive-ones-iii)
+- [Fruits into basket](https://leetcode.com/problems/fruit-into-baskets)
+- [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/)
+- [Longest Substring with k distinct elements](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters)
 
+### ✨ Smallest subarray variants
+- [Min window substring](https://leetcode.com/problems/minimum-window-substring/description/)
+
+### 🚀 Count number of Subarrays
+- [Binary Subarrays with given sum](https://leetcode.com/problems/binary-subarrays-with-sum/description/)
+- [Count nice subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/description/)
+- [Count substrings with 3 characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/description/)
+- [Count subarrays with k distinct elements](https://leetcode.com/problems/subarrays-with-k-different-integers/description/)
+- 
 ---
 
 ## 💬 Contributing
