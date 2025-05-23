@@ -83,15 +83,15 @@ Problems are organised pattern wise, covering all the major concepts for coding 
 - [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/)
 - [Longest Substring with k distinct elements](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters)
 
-### ✨ Smallest subarray variants
-- [Min window substring](https://leetcode.com/problems/minimum-window-substring/description/)
-
 ### 🚀 Count number of Subarrays
 - [Binary Subarrays with given sum](https://leetcode.com/problems/binary-subarrays-with-sum/description/)
 - [Count nice subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/description/)
 - [Count substrings with 3 characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/description/)
 - [Count subarrays with k distinct elements](https://leetcode.com/problems/subarrays-with-k-different-integers/description/)
-- 
+
+### ✨ Smallest subarray variants
+- [Min window substring](https://leetcode.com/problems/minimum-window-substring/description/)
+  
 ---
 
 ## 💬 Contributing
