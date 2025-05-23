@@ -72,12 +72,12 @@ Problems are organised pattern wise, covering all the major concepts for coding 
 ### 📘 Tutorials
 - [Sliding Window – GFG](https://www.geeksforgeeks.org/window-sliding-technique/)
 
-### 🧭 Problems
+### ⚙️ Constant size window variants
 - [Maximum Sum Subarray of Size K](https://www.geeksforgeeks.org/find-maximum-minimum-sum-subarray-size-k/)
+
+### 🛠️ Longest subarray with constraints variants
 - [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
-- [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
-- [Permutation in String](https://leetcode.com/problems/permutation-in-string/)
-- [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
+- [Flip zeros to ones](https://leetcode.com/problems/max-consecutive-ones-iii)
 
 ---
 
