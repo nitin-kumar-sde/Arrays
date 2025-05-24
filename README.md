@@ -41,10 +41,12 @@ Problems are organised pattern wise, covering all the major concepts for coding 
 
 ### 🧭 Problems
 - [Range Sum Query – Immutable](https://leetcode.com/problems/range-sum-query-immutable/)
-- [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
-- [Minimum Value to Get Positive Step-by-Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/)
+- [Range Sum Query  2](https://leetcode.com/problems/range-sum-query-2d-immutable)
+- [Minimum Value to Get Positive Step-by-Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum)
 - [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)
-
+- [Prefix sum with modulo](https://leetcode.com/problems/subarray-sums-divisible-by-k)
+- [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
+  
 ---
 
 ## 👯Two Pointers
