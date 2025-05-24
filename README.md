@@ -9,7 +9,7 @@ Problems are organised pattern wise, covering all the major concepts for coding 
 ## 📚 Table of Contents
 
 - [🐚 Hashing](#hashing)
-- [🌟 Prefix Sum](#prefix-sum)
+- [♟️ Prefix Sum](#prefix-sum)
 - [👯 Two Pointers](#two-pointers)
 - [🪟 Sliding Window](#sliding-window)
 
@@ -31,7 +31,7 @@ Problems are organised pattern wise, covering all the major concepts for coding 
 
 ---
 
-## 🌟Prefix Sum
+## ♟️Prefix Sum
 
 ### 🧠 Concept
 > Use when solving range queries or cumulative values in an array.
@@ -42,6 +42,7 @@ Problems are organised pattern wise, covering all the major concepts for coding 
 ### 🧭 Problems
 - [Range Sum Query – Immutable](https://leetcode.com/problems/range-sum-query-immutable/)
 - [Range Sum Query  2](https://leetcode.com/problems/range-sum-query-2d-immutable)
+- [Array after range update](https://www.geeksforgeeks.org/maximum-value-array-m-range-increment-operations/)
 - [Minimum Value to Get Positive Step-by-Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum)
 - [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)
 - [Prefix sum with modulo](https://leetcode.com/problems/subarray-sums-divisible-by-k)
