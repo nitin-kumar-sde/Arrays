@@ -13,7 +13,7 @@ Problems are organised pattern wise, covering all the major concepts for coding 
 - [🐚 Hashing](#hashing)
 - [🌎 Prefix Sum](#prefix-sum)
 - [🪟 Sliding Window](#sliding-window)
-- [🎲 Grids/ 2D matrices](#grids)
+- [🎲 Grids / 2D matrices](#grids)
 
 ---
 
@@ -30,9 +30,6 @@ Problems are organised pattern wise, covering all the major concepts for coding 
 ---
 
 ## 👯Two Pointers
-
-### 🧠 Concept
-> Use when solving sorted arrays or string matching efficiently with dual indices.
 
 ### 📘 Tutorials
 - [Two Pointer Technique – GFG](https://www.geeksforgeeks.org/two-pointers-technique/)
@@ -54,14 +51,13 @@ Problems are organised pattern wise, covering all the major concepts for coding 
 ### #️⃣ Problems
 - [Longest Subarray with given sum](https://leetcode.com/problems/subarray-sum-equals-k/description/)
 - [Longest consecutive subsequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)
+- [Count subarrays with given sum](https://leetcode.com/problems/subarray-sum-equals-k/description/)
 
 
 ---
 
 ## 🌎Prefix Sum
 
-### 🧠 Concept
-> Use when solving range queries or cumulative values in an array.
 
 ### 📘 Tutorials
 - [Prefix Sum Basics – GFG](https://www.geeksforgeeks.org/prefix-sum-array-implementation-applications-competitive-programming/)
@@ -78,9 +74,6 @@ Problems are organised pattern wise, covering all the major concepts for coding 
 ---
 
 ## 🪟Sliding Window
-
-### 🧠 Concept
-> Use when looking for optimal subarrays (max/min/average/frequency) in **linear time**.
 
 ### 📘 Tutorials
 - [Sliding Window – GFG](https://www.geeksforgeeks.org/window-sliding-technique/)
@@ -108,7 +101,10 @@ Problems are organised pattern wise, covering all the major concepts for coding 
 ---
 
 ## 🎲Grids
-- []
+
+- [Set matrix with zero](https://leetcode.com/problems/set-matrix-zeroes)
+- [Rotate matrix clockwise](https://leetcode.com/problems/rotate-image/)
+- [Matrix in spiral form](https://leetcode.com/problems/spiral-matrix/description/)
 
 ---
 
@@ -127,4 +123,4 @@ Problems are organised pattern wise, covering all the major concepts for coding 
 
 ---
 
-🚀 **Happy Hashing and Searching**
+🚀 **Happy Coding**
