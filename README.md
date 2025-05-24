@@ -52,6 +52,7 @@ Problems are organised pattern wise, covering all the major concepts for coding 
 - [Longest Subarray with given sum](https://leetcode.com/problems/subarray-sum-equals-k/description/)
 - [Longest consecutive subsequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)
 - [Count subarrays with given sum](https://leetcode.com/problems/subarray-sum-equals-k/description/)
+- [Count bubarray with given xor](https://www.geeksforgeeks.org/count-number-subarrays-given-xor)
 
 
 ---
@@ -69,7 +70,6 @@ Problems are organised pattern wise, covering all the major concepts for coding 
 - [Minimum Value to Get Positive Step-by-Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum)
 - [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)
 - [Prefix sum with modulo](https://leetcode.com/problems/subarray-sums-divisible-by-k)
-- [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
   
 ---
 
