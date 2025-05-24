@@ -8,10 +8,34 @@ Problems are organised pattern wise, covering all the major concepts for coding 
 
 ## 📚 Table of Contents
 
+- [🪂 Standard array Problems](#standard-array-problems)
+- [👯 Two Pointers](#two-pointers)
 - [🐚 Hashing](#hashing)
 - [🌎 Prefix Sum](#prefix-sum)
-- [👯 Two Pointers](#two-pointers)
 - [🪟 Sliding Window](#sliding-window)
+
+---
+
+## 🪂Standard array Problems
+- [Rotate array by d](https://leetcode.com/problems/rotate-array/description/)
+- [Missing Number](https://leetcode.com/problems/missing-number/description/)
+- [Single Number](https://leetcode.com/problems/single-number/description/)
+  
+
+---
+
+## 👯Two Pointers
+
+### 🧠 Concept
+> Use when solving sorted arrays or string matching efficiently with dual indices.
+
+### 📘 Tutorials
+- [Two Pointer Technique – GFG](https://www.geeksforgeeks.org/two-pointers-technique/)
+
+### 🧭 Problems
+- [Remove duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-array)
+- [Move Zeroes to end](https://leetcode.com/problems/move-zeroes)
+
 
 ---
 
@@ -22,12 +46,9 @@ Problems are organised pattern wise, covering all the major concepts for coding 
 - [Leetcode – HashMap patterns](https://leetcode.com/tag/hash-table/)
 
 ### 🧭 Problems
-- [Two Sum](https://leetcode.com/problems/two-sum/)
-- [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
-- [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
-- [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
-- [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
-- [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
+- [Longest Subarray with given sum](https://leetcode.com/problems/subarray-sum-equals-k/description/)
+
+  
 
 ---
 
@@ -48,23 +69,6 @@ Problems are organised pattern wise, covering all the major concepts for coding 
 - [Prefix sum with modulo](https://leetcode.com/problems/subarray-sums-divisible-by-k)
 - [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
   
----
-
-## 👯Two Pointers
-
-### 🧠 Concept
-> Use when solving sorted arrays or string matching efficiently with dual indices.
-
-### 📘 Tutorials
-- [Two Pointer Technique – GFG](https://www.geeksforgeeks.org/two-pointers-technique/)
-
-### 🧭 Problems
-- [3Sum](https://leetcode.com/problems/3sum/)
-- [4Sum](https://leetcode.com/problems/4sum/)
-- [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
-- [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
-- [Reverse String](https://leetcode.com/problems/reverse-string/)
-
 ---
 
 ## 🪟Sliding Window
