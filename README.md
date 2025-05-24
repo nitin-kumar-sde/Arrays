@@ -9,7 +9,7 @@ Problems are organised pattern wise, covering all the major concepts for coding 
 ## 📚 Table of Contents
 
 - [🐚 Hashing](#hashing)
-- [♟️ Prefix Sum](#prefix-sum)
+- [🌎 Prefix Sum](#prefix-sum)
 - [👯 Two Pointers](#two-pointers)
 - [🪟 Sliding Window](#sliding-window)
 
@@ -31,7 +31,7 @@ Problems are organised pattern wise, covering all the major concepts for coding 
 
 ---
 
-## ♟️Prefix Sum
+## 🌎Prefix Sum
 
 ### 🧠 Concept
 > Use when solving range queries or cumulative values in an array.
