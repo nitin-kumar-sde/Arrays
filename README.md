@@ -13,6 +13,7 @@ Problems are organised pattern wise, covering all the major concepts for coding 
 - [🐚 Hashing](#hashing)
 - [🌎 Prefix Sum](#prefix-sum)
 - [🪟 Sliding Window](#sliding-window)
+- [🎲 Grids/ 2D matrices](#grids)
 
 ---
 
@@ -20,6 +21,10 @@ Problems are organised pattern wise, covering all the major concepts for coding 
 - [Rotate array by d](https://leetcode.com/problems/rotate-array/description/)
 - [Missing Number](https://leetcode.com/problems/missing-number/description/)
 - [Single Number](https://leetcode.com/problems/single-number/description/)
+- [Majority Element](https://leetcode.com/problems/majority-element)
+- [Rearrange elements by sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/description)
+- [Next permutation](https://leetcode.com/problems/next-permutation)
+- [Leader elements](https://www.geeksforgeeks.org/leaders-in-an-array/)
   
 
 ---
@@ -35,6 +40,8 @@ Problems are organised pattern wise, covering all the major concepts for coding 
 ### 🧭 Problems
 - [Remove duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-array)
 - [Move Zeroes to end](https://leetcode.com/problems/move-zeroes)
+- [2 Sum](https://leetcode.com/problems/two-sum/description/)
+- [Sort array of 0,1,2s](https://leetcode.com/problems/sort-colors)
 
 
 ---
@@ -42,13 +49,12 @@ Problems are organised pattern wise, covering all the major concepts for coding 
 ##  🐚Hashing
 
 ### 📘 Tutorials
-- [GFG – Hashing for pair problems](https://www.geeksforgeeks.org/hashing-data-structure/)
-- [Leetcode – HashMap patterns](https://leetcode.com/tag/hash-table/)
+[Hashing Basics](https://www.geeksforgeeks.org/hashing-data-structure/)
 
-### 🧭 Problems
+### #️⃣ Problems
 - [Longest Subarray with given sum](https://leetcode.com/problems/subarray-sum-equals-k/description/)
+- [Longest consecutive subsequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)
 
-  
 
 ---
 
@@ -99,6 +105,11 @@ Problems are organised pattern wise, covering all the major concepts for coding 
 ### ✨ Smallest subarray variants
 - [Min window substring](https://leetcode.com/problems/minimum-window-substring/description/)
   
+---
+
+## 🎲Grids
+- []
+
 ---
 
 ## 💬 Contributing
