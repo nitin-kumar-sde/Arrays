@@ -24,10 +24,12 @@ Problems are organised pattern wise, covering all the major concepts for coding 
 - [Single Number](https://leetcode.com/problems/single-number/description/)
 - [Missing and Repeating Number](https://www.geeksforgeeks.org/find-a-repeating-and-a-missing-number/)
 - [Majority Element](https://leetcode.com/problems/majority-element)
+- [Majority Element 2](https://leetcode.com/problems/majority-element-ii/)
 - [Rearrange elements by sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/description)
 - [Next permutation](https://leetcode.com/problems/next-permutation)
 - [Leader elements](https://www.geeksforgeeks.org/leaders-in-an-array/)
 - [Merge 2 sorted arrays with extra space](https://leetcode.com/problems/merge-sorted-array)
+- [Merge overlapping intervals](https://leetcode.com/problems/merge-intervals)
   
 
 ---
@@ -42,6 +44,8 @@ Problems are organised pattern wise, covering all the major concepts for coding 
 - [Move Zeroes to end](https://leetcode.com/problems/move-zeroes)
 - [2 Sum](https://leetcode.com/problems/two-sum/description/)
 - [Sort array of 0,1,2s](https://leetcode.com/problems/sort-colors)
+- [3 Sum](https://leetcode.com/problems/3sum)
+- [4 Sum](https://leetcode.com/problems/4sum)
 
 
 ---
@@ -73,6 +77,7 @@ Problems are organised pattern wise, covering all the major concepts for coding 
 - [Minimum Value to Get Positive Step-by-Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum)
 - [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)
 - [Prefix sum with modulo](https://leetcode.com/problems/subarray-sums-divisible-by-k)
+- [Longest Product Subarray](https://leetcode.com/problems/maximum-product-subarray)
   
 ---
 
@@ -114,7 +119,7 @@ Problems are organised pattern wise, covering all the major concepts for coding 
 - [Quick Sort](https://www.geeksforgeeks.org/problems/quick-sort/1)
 - [Inversion Count](https://leetcode.com/problems/count-the-number-of-inversions)
 - [Reverse Pairs](https://leetcode.com/problems/reverse-pairs)
-- 
+  
 
 ---
 
@@ -141,4 +146,4 @@ Problems are organised pattern wise, covering all the major concepts for coding 
 
 ---
 
-🚀 **Happy Coding**
+**📚 Happy Arraying! 🚀**
