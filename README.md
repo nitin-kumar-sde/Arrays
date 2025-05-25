@@ -13,6 +13,7 @@ Problems are organised pattern wise, covering all the major concepts for coding 
 - [🐚 Hashing](#hashing)
 - [🌎 Prefix Sum](#prefix-sum)
 - [🪟 Sliding Window](#sliding-window)
+- [✂️ Divide and Conquer](#divide-and-conquer)
 - [🎲 Grids / 2D matrices](#grids)
 
 ---
@@ -21,10 +22,12 @@ Problems are organised pattern wise, covering all the major concepts for coding 
 - [Rotate array by d](https://leetcode.com/problems/rotate-array/description/)
 - [Missing Number](https://leetcode.com/problems/missing-number/description/)
 - [Single Number](https://leetcode.com/problems/single-number/description/)
+- [Missing and Repeating Number](https://www.geeksforgeeks.org/find-a-repeating-and-a-missing-number/)
 - [Majority Element](https://leetcode.com/problems/majority-element)
 - [Rearrange elements by sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/description)
 - [Next permutation](https://leetcode.com/problems/next-permutation)
 - [Leader elements](https://www.geeksforgeeks.org/leaders-in-an-array/)
+- [Merge 2 sorted arrays with extra space](https://leetcode.com/problems/merge-sorted-array)
   
 
 ---
@@ -61,7 +64,7 @@ Problems are organised pattern wise, covering all the major concepts for coding 
 
 
 ### 📘 Tutorials
-- [Prefix Sum Basics – GFG](https://www.geeksforgeeks.org/prefix-sum-array-implementation-applications-competitive-programming/)
+[Prefix Sum Basics – GFG](https://www.geeksforgeeks.org/prefix-sum-array-implementation-applications-competitive-programming/)
 
 ### 🧭 Problems
 - [Range Sum Query – Immutable](https://leetcode.com/problems/range-sum-query-immutable/)
@@ -76,7 +79,7 @@ Problems are organised pattern wise, covering all the major concepts for coding 
 ## 🪟Sliding Window
 
 ### 📘 Tutorials
-- [Sliding Window – GFG](https://www.geeksforgeeks.org/window-sliding-technique/)
+[Sliding Window – GFG](https://www.geeksforgeeks.org/window-sliding-technique/)
 
 ### ⚙️ Constant size window variants
 - [Maximum Sum Subarray of Size K](https://www.geeksforgeeks.org/find-maximum-minimum-sum-subarray-size-k/)
@@ -98,6 +101,21 @@ Problems are organised pattern wise, covering all the major concepts for coding 
 ### ✨ Smallest subarray variants
 - [Min window substring](https://leetcode.com/problems/minimum-window-substring/description/)
   
+---
+
+
+## 💡Divide and Conquer
+
+### 📘 Tutorials
+[DIvide and Conquer – GFG](https://www.geeksforgeeks.org/divide-and-conquer/)
+
+### Problems
+- [Merge Sort](https://www.geeksforgeeks.org/problems/merge-sort/1)
+- [Quick Sort](https://www.geeksforgeeks.org/problems/quick-sort/1)
+- [Inversion Count](https://leetcode.com/problems/count-the-number-of-inversions)
+- [Reverse Pairs](https://leetcode.com/problems/reverse-pairs)
+- 
+
 ---
 
 ## 🎲Grids
