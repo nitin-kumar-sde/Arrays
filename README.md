@@ -46,6 +46,7 @@ Problems are organised pattern wise, covering all the major concepts for coding 
 - [Sort array of 0,1,2s](https://leetcode.com/problems/sort-colors)
 - [3 Sum](https://leetcode.com/problems/3sum)
 - [4 Sum](https://leetcode.com/problems/4sum)
+- [Celebrity Problem](https://leetcode.com/accounts/login/?next=/problems/find-the-celebrity/)
 
 
 ---
