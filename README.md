@@ -19,16 +19,18 @@ Problems are organised pattern wise, covering all the major concepts for coding 
 ---
 
 # 🪂Standard Problems
-- [Rotate array by d](https://leetcode.com/problems/rotate-array)
+
+- [Rotate array left by D](https://leetcode.com/problems/rotate-array)
 - [Missing Number](https://leetcode.com/problems/missing-number)
 - [Single Number](https://leetcode.com/problems/single-number)
-- [Missing and Repeating Number](https://www.geeksforgeeks.org/find-a-repeating-and-a-missing-number/)
+- [Single Number II](https://leetcode.com/problems/single-number-ii)
+- [Single Number III](https://leetcode.com/problems/single-number-iii)
+- [Missing and Repeating Number](https://www.geeksforgeeks.org/find-a-repeating-and-a-missing-number)
 - [Majority Element](https://leetcode.com/problems/majority-element)
-- [Majority Element 2](https://leetcode.com/problems/majority-element-ii/)
-- [Rearrange elements by sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/description)
-- [Next permutation](https://leetcode.com/problems/next-permutation)
-- [Leader elements](https://www.geeksforgeeks.org/leaders-in-an-array/)
-- [Merge 2 sorted arrays with extra space](https://leetcode.com/problems/merge-sorted-array)
+- [Majority Element 2](https://leetcode.com/problems/majority-element-ii)
+- [Rearrange Elements by sign](https://leetcode.com/problems/rearrange-array-elements-by-sign)
+- [Next Permutation](https://leetcode.com/problems/next-permutation)
+- [Merge 2 Sorted arrays without extra space](https://leetcode.com/problems/merge-sorted-array)
 - [Merge overlapping intervals](https://leetcode.com/problems/merge-intervals)
   
 
@@ -47,16 +49,16 @@ Problems are organised pattern wise, covering all the major concepts for coding 
 - [3 Sum](https://leetcode.com/problems/3sum)
 - [4 Sum](https://leetcode.com/problems/4sum)
 - [Celebrity Problem](https://leetcode.com/accounts/login/?next=/problems/find-the-celebrity/)
-
+- [Ferris Wheel](https://cses.fi/problemset/task/1090)
 
 ---
 
-##  🐚Hashing
+#  🐚Hashing
 
-### 📘 Tutorials
+## 📘 Tutorials
 [Hashing Basics](https://www.geeksforgeeks.org/hashing-data-structure/)
 
-### #️⃣ Problems
+## #️⃣ Problems
 - [Longest Subarray with given sum](https://leetcode.com/problems/subarray-sum-equals-k/description/)
 - [Longest consecutive subsequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)
 - [Count subarrays with given sum](https://leetcode.com/problems/subarray-sum-equals-k/description/)
@@ -65,13 +67,13 @@ Problems are organised pattern wise, covering all the major concepts for coding 
 
 ---
 
-## 🌎Prefix Sum
+# 🌎Prefix Sum
 
 
-### 📘 Tutorials
+## 📘 Tutorials
 [Prefix Sum Basics – GFG](https://www.geeksforgeeks.org/prefix-sum-array-implementation-applications-competitive-programming/)
 
-### 🧭 Problems
+## 🧭 Problems
 - [Range Sum Query – Immutable](https://leetcode.com/problems/range-sum-query-immutable/)
 - [Range Sum Query  2](https://leetcode.com/problems/range-sum-query-2d-immutable)
 - [Array after range update](https://www.geeksforgeeks.org/maximum-value-array-m-range-increment-operations/)
@@ -79,10 +81,12 @@ Problems are organised pattern wise, covering all the major concepts for coding 
 - [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)
 - [Prefix sum with modulo](https://leetcode.com/problems/subarray-sums-divisible-by-k)
 - [Longest Product Subarray](https://leetcode.com/problems/maximum-product-subarray)
+- [Leader elements](https://www.geeksforgeeks.org/leaders-in-an-array/)
+
   
 ---
 
-## 🪟Sliding Window
+# 🪟Sliding Window
 
 ### 📘 Tutorials
 [Sliding Window – GFG](https://www.geeksforgeeks.org/window-sliding-technique/)
@@ -109,8 +113,7 @@ Problems are organised pattern wise, covering all the major concepts for coding 
   
 ---
 
-
-## 💡Divide and Conquer
+# 💡Divide and Conquer
 
 ### 📘 Tutorials
 [DIvide and Conquer – GFG](https://www.geeksforgeeks.org/divide-and-conquer/)
@@ -124,7 +127,7 @@ Problems are organised pattern wise, covering all the major concepts for coding 
 
 ---
 
-## 🎲Grids
+# 🎲Grids
 
 - [Set matrix with zero](https://leetcode.com/problems/set-matrix-zeroes)
 - [Rotate matrix clockwise](https://leetcode.com/problems/rotate-image/)
