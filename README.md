@@ -6,9 +6,9 @@ Problems are organised pattern wise, covering all the major concepts for coding 
 
 ---
 
-## 📚 Table of Contents
+# 📚 Table of Contents
 
-- [🪂 Standard array Problems](#standard-array-problems)
+- [🪂 Standard Problems](#standard-problems)
 - [👯 Two Pointers](#two-pointers)
 - [🐚 Hashing](#hashing)
 - [🌎 Prefix Sum](#prefix-sum)
@@ -18,10 +18,10 @@ Problems are organised pattern wise, covering all the major concepts for coding 
 
 ---
 
-## 🪂Standard array Problems
-- [Rotate array by d](https://leetcode.com/problems/rotate-array/description/)
-- [Missing Number](https://leetcode.com/problems/missing-number/description/)
-- [Single Number](https://leetcode.com/problems/single-number/description/)
+# 🪂Standard Problems
+- [Rotate array by d](https://leetcode.com/problems/rotate-array)
+- [Missing Number](https://leetcode.com/problems/missing-number)
+- [Single Number](https://leetcode.com/problems/single-number)
 - [Missing and Repeating Number](https://www.geeksforgeeks.org/find-a-repeating-and-a-missing-number/)
 - [Majority Element](https://leetcode.com/problems/majority-element)
 - [Majority Element 2](https://leetcode.com/problems/majority-element-ii/)
@@ -34,12 +34,12 @@ Problems are organised pattern wise, covering all the major concepts for coding 
 
 ---
 
-## 👯Two Pointers
+# 👯Two Pointers
 
-### 📘 Tutorials
+## 📘 Tutorials
 - [Two Pointer Technique – GFG](https://www.geeksforgeeks.org/two-pointers-technique/)
 
-### 🧭 Problems
+## 🧭 Problems
 - [Remove duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-array)
 - [Move Zeroes to end](https://leetcode.com/problems/move-zeroes)
 - [2 Sum](https://leetcode.com/problems/two-sum/description/)
