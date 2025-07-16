@@ -88,16 +88,19 @@ Problems are organised pattern wise, covering all the major concepts for coding 
 
 # 🪟Sliding Window
 
-### 📘 Tutorials
+## 📘 Tutorials
 [Sliding Window – GFG](https://www.geeksforgeeks.org/window-sliding-technique/)
 
-### ⚙️ Constant size window variants
+## ⚙️ Constant size window variants
 - [Maximum Sum Subarray of Size K](https://www.geeksforgeeks.org/find-maximum-minimum-sum-subarray-size-k/)
-- [Maximum card points](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/description/)
+- [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii)
+- [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum)
+- [Maximum card points](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards)
 
-### 🛠️ Longest subarray with constraints variants
+## 🛠️ Variable size window variants
 - [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
-- [Flip zeros to ones](https://leetcode.com/problems/max-consecutive-ones-iii)
+- [Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii)
+- [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii)
 - [Fruits into basket](https://leetcode.com/problems/fruit-into-baskets)
 - [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/)
 - [Longest Substring with k distinct elements](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters)
