@@ -14,6 +14,7 @@ Problems are organised pattern wise, covering all the major concepts for coding 
 - [🌎 Prefix Sum](#prefix-sum)
 - [🪟 Sliding Window](#sliding-window)
 - [✂️ Divide and Conquer](#divide-and-conquer)
+- [⏳ Range / Interval](#range--interval)
 - [🎲 Grids / 2D matrices](#grids)
 
 ---
@@ -31,7 +32,6 @@ Problems are organised pattern wise, covering all the major concepts for coding 
 - [Rearrange Elements by sign](https://leetcode.com/problems/rearrange-array-elements-by-sign)
 - [Next Permutation](https://leetcode.com/problems/next-permutation)
 - [Merge 2 Sorted arrays without extra space](https://leetcode.com/problems/merge-sorted-array)
-- [Merge overlapping intervals](https://leetcode.com/problems/merge-intervals)
   
 
 ---
@@ -76,7 +76,6 @@ Problems are organised pattern wise, covering all the major concepts for coding 
 ## 🧭 Problems
 - [Range Sum Query – Immutable](https://leetcode.com/problems/range-sum-query-immutable/)
 - [Range Sum Query  2](https://leetcode.com/problems/range-sum-query-2d-immutable)
-- [Array after range update](https://www.geeksforgeeks.org/maximum-value-array-m-range-increment-operations/)
 - [Minimum Value to Get Positive Step-by-Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum)
 - [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)
 - [Prefix sum with modulo](https://leetcode.com/problems/subarray-sums-divisible-by-k)
@@ -127,7 +126,16 @@ Problems are organised pattern wise, covering all the major concepts for coding 
 - [Quick Sort](https://www.geeksforgeeks.org/problems/quick-sort/1)
 - [Inversion Count](https://leetcode.com/problems/count-the-number-of-inversions)
 - [Reverse Pairs](https://leetcode.com/problems/reverse-pairs)
-  
+
+---
+
+# ⏳Range / Interval
+
+- [Merge overlapping intervals](https://leetcode.com/problems/merge-intervals)
+- [Array after Range Update](https://www.geeksforgeeks.org/maximum-value-array-m-range-increment-operations/)
+- [Nested Ranges Check](https://cses.fi/problemset/task/2168)
+- [Nested Ranges Count](https://cses.fi/problemset/task/2169)
+
 
 ---
 
