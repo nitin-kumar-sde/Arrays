@@ -118,10 +118,10 @@ Problems are organised pattern wise, covering all the major concepts for coding 
 
 # 💡Divide and Conquer
 
-### 📘 Tutorials
+## 📘 Tutorials
 [DIvide and Conquer – GFG](https://www.geeksforgeeks.org/divide-and-conquer/)
 
-### Problems
+## Problems
 - [Merge Sort](https://www.geeksforgeeks.org/problems/merge-sort/1)
 - [Quick Sort](https://www.geeksforgeeks.org/problems/quick-sort/1)
 - [Inversion Count](https://leetcode.com/problems/count-the-number-of-inversions)
@@ -131,7 +131,9 @@ Problems are organised pattern wise, covering all the major concepts for coding 
 
 # ⏳Range / Interval
 
-- [Merge overlapping intervals](https://leetcode.com/problems/merge-intervals)
+- [Insert Interval](https://leetcode.com/problems/insert-interval)
+- [Merge Overlapping Intervals](https://leetcode.com/problems/merge-intervals)
+- [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals)
 - [Array after Range Update](https://www.geeksforgeeks.org/maximum-value-array-m-range-increment-operations/)
 - [Nested Ranges Check](https://cses.fi/problemset/task/2168)
 - [Nested Ranges Count](https://cses.fi/problemset/task/2169)
